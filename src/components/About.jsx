@@ -70,7 +70,7 @@ const About = () => {
 
         {/* Download CV Button */}
         <motion.a
-          href="..\public\TJRapodile_C.pdf" // Make sure to update this with the actual path to your CV
+          href="..\public\TJRapodile_CV.pdf" // Make sure to update this with the actual path to your CV
           download="TJ_Rapodile_CV.pdf"
           variants={fadeIn("", "", 0.2, 1)}
           className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary cursor-pointer"
