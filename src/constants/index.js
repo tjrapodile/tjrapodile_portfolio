@@ -156,7 +156,7 @@ import {
       company_name: "C# Fundamentals and Full Stack Development",
       icon: github,
       iconBg: "#383E56",
-      date: "July 2023 - February 2023",
+      date: "July 2023 - February 2024",
       points: [
         "Mastered the fundamentals of C# programming, including data types, control structures, exception handling, and file I/O operations.",
         "Developed and consumed RESTful APIs using ASP.NET Core to facilitate communication between client-side and server-side applications.",
@@ -169,7 +169,7 @@ import {
       company_name: "Frontend Frameworks",
       icon: reactjs,
       iconBg: "#E6DEDD",
-      date: "March 2023 - Present",
+      date: "March 2024 - Present",
       points: [
         "Developed single-page applications (SPAs) using React.js, leveraging state management, component lifecycle methods, and React hooks for dynamic user interfaces.",
         "Utilized Bootstrap and TailwindCSS for designing responsive and modern web interfaces.",
