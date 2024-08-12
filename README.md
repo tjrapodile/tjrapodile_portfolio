@@ -33,7 +33,7 @@ vite.config.js: Vite configuration file for customizing the build process.
 
 Setup & Installation
 Clone the repository:
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/tjrapodile/portfolio-website.git
 
 Navigate to the project directory:
 cd portfolio-website
