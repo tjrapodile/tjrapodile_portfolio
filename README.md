@@ -13,12 +13,23 @@ Three.js- A powerful library for creating 3D graphics directly in the browser. U
 Tailwind CSS- A utility-first CSS framework that simplifies styling and ensures responsive design.
 
 Project Structure:
-src/: Contains the source code, including components, assets, and styles.
-components/: React components that make up the various sections of the website.
-assets/: Images, 3D models, and other media files used in the site.
-styles/: Tailwind CSS configuration and custom styles.
-public/: Public assets that are served directly, including the index.html file.
-vite.config.js: Vite configuration file.
+public/: Contains public assets, including the index.html file.
+src/: Source code directory containing all the main components, assets, and utilities.
+assets/: Media files such as images, 3D models, and other assets.
+components/: React components that build the different sections of the website.
+constants/: Constants and configuration files used throughout the project.
+hoc/: Higher-order components for enhancing existing components.
+utils/: Utility functions used across the project.
+App.jsx: The main application file that serves as the entry point for the React components.
+index.css: Global CSS styles applied across the application.
+main.jsx: The main entry point for rendering the React app.
+styles.js: Custom JavaScript styling for specific components.
+index.html: The main HTML file served by the Vite development server.
+package-lock.json: Automatically generated file that records the exact version of installed dependencies.
+package.json: Lists project dependencies and scripts for building and running the application.
+postcss.config.js: Configuration file for PostCSS, used with Tailwind CSS.
+tailwind.config.js: Tailwind CSS configuration file.
+vite.config.js: Vite configuration file for customizing the build process.
 
 Setup & Installation
 Clone the repository:
@@ -32,9 +43,6 @@ npm install
 
 Run the development server:
 npm run dev
-Open your browser and visit:
-arduino
-Copy code
-http://localhost:3000
+
 Learning and Adaptation
 Three.js Integration: As I am still in the process of learning Three.js, parts of the 3D elements are adapted from existing resources. This project serves as both a portfolio and a learning experience in 3D web development.
