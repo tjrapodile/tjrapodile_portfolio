@@ -33,9 +33,13 @@ import {
       title: "Technologies",
     },
     {
-      id: "contact",
-      title: "Contact Me",
+      id: "projects",
+      title: "Projects",
     },
+    {
+      id: "contact",
+      title: "Contact Me"
+    }
   ];
   
   const services = [
@@ -210,7 +214,7 @@ import {
     {
       name: "Ability Assist",
       description:
-        "Web-based platform that allows users to navigate around the hotspots or important locations in Tshwane University of Technology with some voice functionalities. Visit the demo : <a href='https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp'><b>Click here</b></a>.",
+        "Web-based platform that allows users to navigate around the hotspots or important locations in Tshwane University of Technology with some voice functionalities. Visit the demo : <a href='https://abilityassist.onrender.com/AbilityAssistWebApp'><b>Click here</b></a>.",
       tags: [
         {
           name: "Django",
@@ -239,7 +243,7 @@ import {
     {
       name: "Thembi's Bold Bite Bazaar",
       description:
-        "Ecommerce Web application that allows users to view, and buy Atchar and Chilli products after a successful login or sign up process A school project.Visit the demo: <a href='https://664868b77f95c971c1dc063b--thembis-bazaar.netlify.app/home'><b>Click here</b></a>",
+        "Frontend of Ecommerce Web application that allows users to view, and buy Atchar and Chilli products. A school project. Visit the <a href='https://github.com/tjrapodile/ecommerce-web-app'><b>Spring Boot backend GitHub repository</b></a> for the code.Visit the demo: <a href='https://664868b77f95c971c1dc063b--thembis-bazaar.netlify.app/home'><b>Click here</b></a>",
       tags: [
         {
           name: "React",
