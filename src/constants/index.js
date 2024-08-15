@@ -270,12 +270,12 @@ import {
       source_code_link: "https://github.com/tjrapodile/ecommerce-web-app",
     },
     {
-      name: "E-Medicine Store",
+      name: "React Admin Dashboard",
       description:
-        "A ccomprehensive medicine booking application that allows users to order medicine and view their medicine inventory.Visit the demo: <a href='#'><b>Click here</b></a>",
+        "A sleek and modern admin dashboard built with React, designed to streamline administrative tasks and provide a seamless user experience.Visit the demo: <a href='https://react-admin-dash-site.netlify.app/'><b>Click here</b></a>",
       tags: [
         {
-          name: "C#",
+          name: "SASS",
           color: "blue-text-gradient",
         },
         {
@@ -283,12 +283,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "MySQL",
+          name: "Recharts.js",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/tjrapodile/React-Admin-Dashboard",
     },
   ];
   
