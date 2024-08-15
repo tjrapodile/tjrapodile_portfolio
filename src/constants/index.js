@@ -9,7 +9,6 @@ import {
     reactjs,
     tailwind,
     git,
-    tripguide,
     threejs,
     github,
     java,
@@ -21,6 +20,7 @@ import {
     maria,
     ability,
     thembi,
+    admin,
   } from "../assets";
   
   export const navLinks = [
@@ -287,7 +287,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: admin,
       source_code_link: "https://github.com/tjrapodile/React-Admin-Dashboard",
     },
   ];
