@@ -38,6 +38,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import ability from "./ability.png";
 import thembi from "./thembi.png";
+import admin from "./admin.png";
 
 export {
   logo,
@@ -77,4 +78,5 @@ export {
   maria,
   ability,
   thembi,
+  admin,
 };
